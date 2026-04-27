@@ -1,0 +1,9 @@
+#1.3.3 변수
+x = 10 # 초기화
+print(x) # x의 값 출력
+x = 100 # 변수에 값 대입
+print(x)
+y = 3.14
+z = x * y 
+print(z)
+print(type(z))
