@@ -36,9 +36,9 @@
 
 ## Progress
 - [x] Python Basic
-- [ ] NumPy / Pandas
+- [x] NumPy / Pandas
 - [ ] Machine Learning
-- [ ] Deep Learning
+- [x] Deep Learning
 
 ## Author
 - 김동현
